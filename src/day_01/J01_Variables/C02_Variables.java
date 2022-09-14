@@ -1,5 +1,5 @@
-package day01.J01_Variables;
-public class Variables {
+package day_01.J01_Variables;
+public class C02_Variables {
     public static void main(String[] args) {
         /*
 TASK:

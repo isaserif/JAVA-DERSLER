@@ -1,4 +1,4 @@
-package day01.J02_DataTypes_WrapperClass;
+package day_01.J01_Variables;
 
 public class C01_VariableCreate {
     public static void main(String[] args) {
